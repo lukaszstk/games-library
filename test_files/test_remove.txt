@@ -1,0 +1,8 @@
+add
+Pacman
+4.5
+remove
+Pacman
+remove
+Pacman
+quit
